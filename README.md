@@ -9,7 +9,7 @@
 	<header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
+                <img class="masthead-avatar mb-5" src="logo.png" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">DISEÑO Y CONSTRUCCION</h1>
                 <!-- Icon Divider-->
@@ -23,8 +23,7 @@
             </div>
         </header>
 <!-- Copyright Section-->
-        <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; Your Website 2022</small></div>
-        </div>
+     
+	
 </body>
 </html>
